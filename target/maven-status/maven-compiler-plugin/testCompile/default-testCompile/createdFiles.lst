@@ -1,0 +1,5 @@
+org/serenity/example/pages/OpenedPage.class
+org/serenity/example/pages/SearchResultPage.class
+org/serenity/example/pages/HomePage.class
+org/serenity/example/tests/AppTest.class
+org/serenity/example/steps/GoogleSteps.class
