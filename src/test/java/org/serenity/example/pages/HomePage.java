@@ -8,5 +8,4 @@ public class HomePage {
         $("[name = 'q']").setValue(query).pressEnter();
         return page(SearchResultPage.class);
     }
-
 }
